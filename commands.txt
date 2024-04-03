@@ -1,0 +1,3 @@
+gsutils ls 
+gsutils cp
+
