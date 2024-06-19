@@ -2,7 +2,6 @@ gsutils ls
 gsutils cp
 test
 test 1 
-test 2 
-test2
+this a pull 1 
 
 
