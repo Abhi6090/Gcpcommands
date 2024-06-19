@@ -1,3 +1,4 @@
 gsutils ls 
 gsutils cp
+test
 
